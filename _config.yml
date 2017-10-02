@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Frontend Developer and Designer from Chicago.
-url:                 http://jamigibbs.com
+title:               Caleigh Minshall
+tagline:             Computer Science student at the University of British Columbia
+url:                 http://caleighm.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,16 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Caleigh Minshall
+  url:               https://twitter.com/cjminsh
+  email:             minshallc@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/jamigibbs/portfolio
-google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+  repo:              https://github.com/caleighm/caleighm.github.io
+twitter:             cjminsh
+github:              caleighm
 
 # Gems
 gems:
