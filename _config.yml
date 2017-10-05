@@ -31,6 +31,6 @@ github:              caleighm
 linkedin:            linkedin.com/in/caleigh-minshall-00a46522/
 
 # Gems
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-gist
