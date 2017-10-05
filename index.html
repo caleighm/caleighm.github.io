@@ -2,32 +2,63 @@
 layout: default
 title: Home
 ---
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+  {% include head.html %}
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  <body>
 
-    {{ post.content }}
-  </article>
-  {% endfor %}
-</div>
+    {% include navbar.html %}
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+    <div class="row">
+
+      <div class="large-12 large-centered columns">
+
+        <header class="masthead">
+          <img src="{{ site.baseurl }}/public/profile.jpg" alt="Caleigh Minshall">
+        </header>
+
+    </div>
+  </div>
+
+  <div class="row">
+
+    <div class="large-6 large-offset-3 columns">
+
+      <div class="content-section">
+
+        <p>
+Hi! I'm Caleigh. I'm a <a href="https://www.cs.ubc.ca/students/undergrad/programs/second-degree/what-bcs-ics">Bachelor of Computer Science</a> student at the University of British Columbia. Right now I'm a Software Engineering Co-op at <a href="https://www.d2l.com/">D2L</a>, and on the side I write Python for the <a href="http://slais.ubc.ca/">iSchool@UBC</a>. Before 2016, I was a full-time learning strategist and got my MA in English literature.
+        </p>
+
+        <p>
+Sometimes I like to write about being a mature student in tech. I also like running, cooking, and trying not to kill my succulents</a>.
+        </p>
+
+        <p>
+Through it all I've been accompanied by <a href="http://caleighm.github.io/what-millie-ate/">my jerkface dog, Millie</a>.
+        </p>
+
+      </div>
+
+      <main>
+        <h1>Blog</h1>
+        {% for post in site.posts limit:3 %}
+          <div class="project-post">
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            {{ post.excerpt }}
+          </div>
+        {% endfor %}
+      </main>
+
+      {% include footer.html %}
+
+    </div>
+
+    {% include social.html %}
+
+  </div>
+
+  </body>
+</html>

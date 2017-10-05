@@ -20,9 +20,9 @@ tags:
   - Vancouver Game Jam
   - WebStorm
 ---
-_I wrote my last exam yesterday (April 25) and fully intended to write a new blog (seeing as it&#8217;s so out of date) &#8230; only to realize I drafted this one some time ago, but never published!_
+I wrote my last exam yesterday (April 25) and fully intended to write a new blog (seeing as it&#8217;s so out of date) &#8230; only to realize I drafted this one some time ago, but never published!
 
-_Tomorrow I&#8217;ll write about my experiences at nwHacks, preparing for co-op applications, and a term 2 review of the BCS program. Hope you find this helpful, future BCSers!_
+Tomorrow I&#8217;ll write about my experiences at nwHacks, preparing for co-op applications, and a term 2 review of the BCS program. Hope you find this helpful, future BCSers!
 
 * * *<figure id="attachment_240" style="width: 485px" class="wp-caption alignleft">
 

@@ -5,7 +5,8 @@ permalink:           pretty
 title:               Caleigh Minshall
 tagline:             Computer Science student at the University of British Columbia
 url:                 https://caleighm.github.io/
-paginate:            1
+paginate:            5
+paginate_path:      "/blog/page:num/"
 baseurl:             ""
 
 # Assets
@@ -30,6 +31,6 @@ github:              caleighm
 linkedin:            linkedin.com/in/caleigh-minshall-00a46522/
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
