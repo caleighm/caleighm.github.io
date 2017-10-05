@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 ---
 <!DOCTYPE html>
@@ -41,16 +40,6 @@ Through it all I've been accompanied by <a href="http://caleighm.github.io/what-
         </p>
 
       </div>
-
-      <main>
-        <h1>Blog</h1>
-        {% for post in site.posts limit:3 %}
-          <div class="project-post">
-            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            {{ post.excerpt }}
-          </div>
-        {% endfor %}
-      </main>
 
       {% include footer.html %}
 
