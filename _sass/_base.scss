@@ -61,7 +61,15 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
+  margin-bottom: 0;
   border-radius: 5px;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  font-size: 13pt;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  text-align: center;
 }
 
 table {

@@ -5,7 +5,9 @@
 
 main h2 {
   font-size: 22px;
-  margin-bottom: 2em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;;
 }
 
 .page,
@@ -18,20 +20,26 @@ main h2 {
 
   p {
     font-size: 14pt;
+    line-height: 2em;
   }
 }
 
 // Blog post
-.post-title,
-.post-title a {
+.post-title {
   color: $gray-5;
   font-weight: normal;
-}
-.post-title {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 1.25rem;
   font-family: $root-font-family;
+}
+
+.post-title a {
+  font-weight: normal;
+}
+
+main .post-title {
+  margin-top: 4rem;
 }
 
 .post-more {
