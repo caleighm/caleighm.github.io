@@ -1,44 +1,25 @@
 ---
+title: {{ page.title }}
 layout: default
 ---
-<!-- TODO: add tags, categories, calendar -->
-<!DOCTYPE html>
-<html lang="en">
-
-  {% include head.html %}
-
-  <body>
-
-  {% include navbar.html %}
-    <div class="row">
-
-      <div class="large-6 large-offset-3 columns">
-
+  <article class="post">
+    <!-- TODO: add tags, categories, calendar -->
         <main>
-            <article class="post">
-                <h1 class="post-title">{{ page.title }}</h1>
-                <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_long_string }}</time>
-                {{ content }}
+          <h1 class="post-title">{{ page.title }}</h1>
+          <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_long_string }}</time>
+          {{ content }}
 
-                <div class="post-nav">
-                  {% if paginator.previous_page %}
-                    <a class="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a>
-                  {% endif %}
+          <div class="post-nav">
+            {% if paginator.previous_page %}
+              <a class="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a>
+            {% endif %}
 
-                  {% if paginator.next_page %}
-                    <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-                  {% endif %}
-                </div>
-
-              </article>
+            {% if paginator.next_page %}
+              <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+            {% endif %}
+          </div>
         </main>
-      </div>
-
       <!-- TODO: put this at same position as other pages -->
-      {% include social.html %}
-
-    </div>
-    <div class="row"><div class="large-6 large-offset-3 columns">{% include footer.html %}</div></div>
-
-  </body>
+  </article>
+</body>
 </html>

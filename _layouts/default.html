@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include navbar.html %}
+    <div class="page-content">
+        <div class="row">
+            <div class="large-6 large-offset-3 columns">
+                {{ content }}
+            </div>
+            {% include social.html %}
+        </div>
+    </div>
+    <div class="row"><div class="large-6 large-offset-3 columns">{% include footer.html %}</div></div>
+  </body>
+</html>

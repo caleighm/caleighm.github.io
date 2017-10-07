@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Caleigh Minshall
 tagline:             Computer Science student at the University of British Columbia
-url:                 https://caleighm.github.io/
+url:                 https://caleighm.github.io
 paginate:            5
 paginate_path:      "/blog/page:num/"
 baseurl:             ""
@@ -28,7 +28,7 @@ github:
   repo:              https://github.com/caleighm/caleighm.github.io
 twitter:             cjminsh
 github:              caleighm
-linkedin:            linkedin.com/in/caleigh-minshall-00a46522/
+linkedin:            https://linkedin.com/in/caleigh-minshall-00a46522/
 
 # Gems
 gems:
