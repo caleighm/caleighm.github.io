@@ -7,7 +7,7 @@ main h2 {
   font-size: 22px;
   margin-top: 2em;
   margin-bottom: 1em;
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
 .page,
@@ -35,7 +35,25 @@ main h2 {
 }
 
 .post-title a {
+  color: $gray-5;
+  text-decoration: none;
   font-weight: normal;
+  @include transition(color .2s ease-in-out);
+
+  // `:focus` is linked to `:hover` for basic accessibility
+  &:hover,
+  &:focus {
+    color: $link-color;
+    text-decoration: none;
+  }
+
+  strong {
+    color: inherit;
+  }
+}
+
+.post-title a:hover {
+  
 }
 
 main .post-title {

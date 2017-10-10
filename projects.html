@@ -1,0 +1,75 @@
+---
+title: Projects
+layout: default
+---
+<div class="row">
+    <h1 class="page-title">Some personal projects</h1>
+
+    <div class="large-6 column">
+        <div class="project">
+            <h2>Reactive Dog Journal</h2>
+            <ul class="extra">
+                <li>February 2017</li>
+                <li><a href="http://reactivedog.herokuapp.com">Live on Heroku</a></li>
+                <li><a href="https://github.com/{{ site.github }}/reactive-dog-2">GitHub</a></li>
+            </ul>
+            <p>I'm building a Reactive Dog Journal in Python and the Django framework that allows a user to input daily dog-walking logs to track their dog's reactivity and aggression training progress, storing the data in a PostgreSQL database. I also make use of the Bootstrap CSS framework and integrate Highcharts.js to generate a line graph indicating reactivity trends over time. You can find it <a href="http://reactivedog.herokuapp.com">live on Heroku</a>.</p>
+
+            <p>Currently only an admin user can access and create posts, but the long-term plan is to create a user database so that folks can create an account and their own reactive dog journal.</p>
+        </div>
+    </div>
+        
+    <div class="large-6 column"> 
+            <div class="project">
+                <img src="{{ site.baseurl }}/public/rdj1.jpg" alt="Reactive Dog Journal screenshot 1">
+                <img src="{{ site.baseurl }}/public/rdj.jpg" alt="Reactive Millie">
+                <img src="{{ site.baseurl }}/public/rdj2.jpg" alt="Reactive Dog Journal screenshot 2">
+            </div>
+    </div>
+</div>
+
+<div class="row">
+
+    <div class="large-6 column">
+        <div class="project">
+            <h2>Walky Talky</h2>
+            <ul class="extra">
+                <li>nwHacks</li>
+                <li>March 2017</li>
+                <li><a href="{{ site.baseurl }}/2017/05/03/nwhacks-or-the-little-android-app-that-could/">blog</a></li>
+                <li><a href="https://github.com/{{ site.github }}/WalkyTalkyAndroid">GitHub</a></li>
+            </ul>
+            <p>We made an "Uber for walking tours" Android mobile app (well... we didn't finish all the functionality we wanted). We used a CockroachDB SQL database and Node.js Express server on the backend, and pulled from Yelp and Google Maps APIs to display tour destinations and a map route to follow.</p>
+        </div>
+    </div>
+
+    <div class="large-6 column"> 
+            <div class="project">
+                <img src="{{ site.baseurl }}/public/nw.jpg" alt="nwHacks logo">
+                <img src="{{ site.baseurl }}/public/nw1.jpg" alt="A teammate and I at the hackathon">
+            </div>
+        </div>
+</div>
+
+<div class="row">
+    <div class="large-6 column">
+        <div class="project">
+            <h2>UBC Squirrel Adventure</h2>
+            <ul class="extra">
+                <li>Vancouver Game Jam</li>
+                <li>January 2017</li>
+                <li><a href="{{ site.baseurl }}//2017/01/25/jamming-with-squirrels-at-the-global-game-jam-2017/">Blog</a></li>
+            </ul>
+            <p>A fun little JavaScript game built with the Phaser HTML5 game dev framework at the Vancouver Global Game Jam.</p>
+
+            <p>We still mean to deploy it someday, but this being our first real hackathon (and therefore pretty disorganized), making Squirrel Adventure live isn't at the top of our priority list.</p>
+        </div>
+    </div>
+
+    <div class="large-6 column"> 
+        <div class="project">
+            <img src="{{ site.baseurl }}/public/ggj.jpg" alt="Global Game Jam">
+            <img src="{{ site.baseurl }}/public/sa.jpg" alt="Squirrel Adventure">
+        </div>
+    </div>
+</div>

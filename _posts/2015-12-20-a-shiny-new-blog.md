@@ -4,7 +4,6 @@ title: A shiny new blog, just in time for the holidays!
 date: 2015-12-20T19:59:13+00:00
 author: Caleigh
 layout: post
-guid: https://caleighm.com/?p=1
 permalink: /2015/12/20/a-shiny-new-blog/
 categories:
   - Miscellaneous
@@ -13,8 +12,10 @@ tags:
   - first post
   - proud
   - welcome
+excerpt: First post! I seriously considered making the title &#8220;Hello world!&#8221;, but then I thought that would be too cheesy. Before I start diving into actual, real, juicy content, I thought I&#8217;d start things off with a couple guidelines about what this blog is.
+
 ---
-<figure id="attachment_35" style="width: 400px" class="wp-caption alignleft"><img class="wp-image-35" src="http://i0.wp.com/caleighm.com/wp-content/uploads/2015/12/CWCTNmZWEAAlqry.jpg?resize=400%2C533" alt="Millie peeks from behind couch" srcset="http://i0.wp.com/caleighm.com/wp-content/uploads/2015/12/CWCTNmZWEAAlqry.jpg?w=600 600w, http://i0.wp.com/caleighm.com/wp-content/uploads/2015/12/CWCTNmZWEAAlqry.jpg?resize=225%2C300 225w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption class="wp-caption-text">So sneaky. So festive.</figcaption></figure> 
+<figure id="attachment_35"><img src="{{ site.baseurl }}/public/christmas.jpg" alt="Millie peeks from behind couch" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption>So sneaky. So festive.</figcaption></figure> 
 
 First post! I seriously considered making the title &#8220;Hello world!&#8221;, but then I thought that would be too cheesy.
 
@@ -22,7 +23,7 @@ Before I start diving into actual, real, juicy content, I thought I&#8217;d star
 
 (Although maybe these are more for me than for you.)
 
-# Blog rules
+## Blog rules
 
 1. This blog has **two main topics: mature students & learning to code.** Sometimes these topics will intersect; sometimes they won&#8217;t. I won&#8217;t stress it.
 
