@@ -18,7 +18,7 @@ tags:
   - matrix algebra
   - UBC
 ---
-<figure id="attachment_255" style="width: 525px" class="wp-caption alignleft"><img class="wp-image-255" src="http://i1.wp.com/caleighm.com/wp-content/uploads/2017/05/IMG_0926.jpg?resize=525%2C394" alt="" srcset="http://i1.wp.com/caleighm.com/wp-content/uploads/2017/05/IMG_0926.jpg?resize=1024%2C768 1024w, http://i1.wp.com/caleighm.com/wp-content/uploads/2017/05/IMG_0926.jpg?resize=300%2C225 300w, http://i1.wp.com/caleighm.com/wp-content/uploads/2017/05/IMG_0926.jpg?resize=768%2C576 768w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1" /><figcaption class="wp-caption-text">The best lil study buddy.</figcaption></figure> 
+<figure><img src="{{ site.baseurl }}/public/posts/studybuddy.jpg" alt="Millie curled up next to some binders" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1" /><figcaption>The best lil study buddy.</figcaption></figure> 
 
 Two study terms down in BCS, three more to go (&#8230; at least. And not including my work/co-op terms, of course). In December, I wrote a [Term 1 review](http://caleighm.com/2016/12/18/bcs-term-1-review-cpsc-121-stat-200-math-200-and-cogs-200/); it&#8217;s high time I give you a Term 2 review! In term 2, I took CPSC 213 and 221 (the two core CPSC 2nd-year courses apart from CPSC 210, from which I was exempted upon admission to UBC), MATH 221 (matrix algebra), and ETEC 510 (a graduate-level course on educational technology design).
 
