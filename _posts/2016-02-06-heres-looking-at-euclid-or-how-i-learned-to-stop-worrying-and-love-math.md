@@ -4,13 +4,12 @@ title: 'Here&#8217;s Looking at Euclid &#8212; or how I learned to stop worrying
 date: 2016-02-06T13:06:53+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=133
 permalink: /2016/02/06/heres-looking-at-euclid-or-how-i-learned-to-stop-worrying-and-love-math/
 categories:
   - Computer science
   - Learning strategies
 ---
-<figure id="attachment_134" style="width: 314px" class="wp-caption alignleft"><img class="size-full wp-image-134" src="http://i0.wp.com/caleighm.com/wp-content/uploads/2016/02/7901962.jpg?fit=314%2C475" alt="Here's Looking at Euclid book cover" srcset="http://i0.wp.com/caleighm.com/wp-content/uploads/2016/02/7901962.jpg?w=314 314w, http://i0.wp.com/caleighm.com/wp-content/uploads/2016/02/7901962.jpg?resize=198%2C300 198w" sizes="(max-width: 314px) 100vw, 314px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Thank you, Alex Bellos.</figcaption></figure> 
+<figure><img src="{{ site.baseurl }}/public/posts/euclid.jpg" alt="Here's Looking at Euclid book cover" sizes="(max-width: 314px) 100vw, 314px" data-recalc-dims="1" /><figcaption>Thank you, Alex Bellos.</figcaption></figure> 
 
 I don&#8217;t have a typical blog post for you today. This is more of a rhapsodic book review. But first, some back story &#8230;
 

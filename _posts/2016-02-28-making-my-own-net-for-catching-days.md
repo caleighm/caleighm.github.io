@@ -10,7 +10,7 @@ categories:
   - Learning strategies
   - Life choices
 ---
-> How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim. It is a net for catching days. It is a scaffolding on which a worker can stand and labor with both hands at sections of time. A schedule is a mock-up of reason and order—willed, faked, and so brought into being; it is a peace and a haven set into the wreck of time; it is a lifeboat on which you find yourself, decades later, still living. Each day is the same, so you remember the series afterward as a blurred and powerful pattern. <cite>&#8212; Annie Dillard, <em>The Writing Life</em></cite>
+> How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim. It is a net for catching days. It is a scaffolding on which a worker can stand and labor with both hands at sections of time. A schedule is a mock-up of reason and order—willed, faked, and so brought into being; it is a peace and a haven set into the wreck of time; it is a lifeboat on which you find yourself, decades later, still living. Each day is the same, so you remember the series afterward as a blurred and powerful pattern. <cite>Annie Dillard, <em>The Writing Life</em></cite>
 
 I haven&#8217;t actually read _The Writing Life_ before. I found this quotation (and many others from the same book) in a [Brain Pickings post](https://www.brainpickings.org/2013/06/07/annie-dillard-the-writing-life-1/) from 2013. Maria Popova, the brain behind Brain Pickings, has her own quote-worthy moment when she describes _The Writing Life_ as being about, partly, &#8220;the tradeoffs between presence and productivity that we’re constantly choosing to make, or not.&#8221;
 
@@ -18,9 +18,10 @@ I struggle between those two poles regularly. &#8220;Struggle&#8221; is probably
 
 I try not to feel much guilt about any of that, but it _would_ be nice to &#8220;catch my days&#8221; and &#8220;defend them from chaos and whim&#8221;! (Being a nerd, I immediately imagine a stalwart schedule errant waving a tiny sword in the face of all chaos and whim.)
 
-So for this week&#8217;s blog, I&#8217;m taking a page from Dillard&#8217;s book (and Popova&#8217;s blog). I decided to try out the [weekly schedule template](http://sass.queensu.ca/learningstrategies/wp-content/uploads/sites/2/2013/09/Weekly-schedule.pdf) that we recommend in-house:<figure id="attachment_163" style="width: 3264px" class="wp-caption alignnone">
+So for this week&#8217;s blog, I&#8217;m taking a page from Dillard&#8217;s book (and Popova&#8217;s blog). I decided to try out the [weekly schedule template](http://sass.queensu.ca/learningstrategies/wp-content/uploads/sites/2/2013/09/Weekly-schedule.pdf) that we recommend in-house:
 
-<img class="size-full wp-image-163" src="http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/FullSizeRender.jpg?fit=600%2C450" alt="My weekly schedule" srcset="http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/FullSizeRender.jpg?w=3264 3264w, http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/FullSizeRender.jpg?resize=300%2C225 300w, http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/FullSizeRender.jpg?resize=768%2C576 768w, http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/FullSizeRender.jpg?resize=1024%2C768 1024w" sizes="(max-width: 3264px) 100vw, 3264px" data-recalc-dims="1" /><figcaption class="wp-caption-text">My weekly schedule. Take that, chaos and whim!</figcaption></figure> 
+<figure>
+<img src="{{ site.baseurl }}/public/posts/weeklysched.jpg" data-recalc-dims="1" /><figcaption>My weekly schedule. Take that, chaos and whim!</figcaption></figure> 
 
 Slick, huh?
 
@@ -56,6 +57,7 @@ And for those of you who care more about &#8220;productivity&#8221; than &#8220;
 
 Even if an hour-by-hour weekly schedule isn&#8217;t for you, I encourage you to think about a) how you currently, actually spend your days, and b) reflect on whether you can or should make any changes to that routine, based on your mood or how satisfied you are with your work. You may find it helpful, like I do, to have an honest-to-goodness checklist of &#8220;things you must to to feel happy and fulfilled in your life&#8221; and then just work your way down that list each week. I find that if I don&#8217;t have a little checklist like that to remind myself of what&#8217;s important, I spend an awful lot of time feeling vaguely unhappy and then self-medicating in the evenings with some good ol&#8217; Netflix &#8230; which really doesn&#8217;t help matters.
 
-I realize that my artistic talent, at least when it comes to creating schedules, isn&#8217;t too great, so I want to leave you with a much more beautiful way to think about time. (Imagine how much time you&#8217;d need to make one of these puppies!) Here is the [Visconti Book of Hours](https://en.wikipedia.org/wiki/Hours_of_Gian_Galeazzo_Visconti) from the late fourteenth century:<figure id="attachment_164" style="width: 330px" class="wp-caption aligncenter">
+I realize that my artistic talent, at least when it comes to creating schedules, isn&#8217;t too great, so I want to leave you with a much more beautiful way to think about time. (Imagine how much time you&#8217;d need to make one of these puppies!) Here is the [Visconti Book of Hours](https://en.wikipedia.org/wiki/Hours_of_Gian_Galeazzo_Visconti) from the late fourteenth century:
 
-<img class="size-full wp-image-164" src="http://i2.wp.com/caleighm.com/wp-content/uploads/2016/02/330px-Offiziolo_-_Leterno_e_gli_eremiti.jpg?fit=330%2C481" alt="Hours of Gian Galeazzo Visconti" srcset="http://i2.wp.com/caleighm.com/wp-content/uploads/2016/02/330px-Offiziolo_-_Leterno_e_gli_eremiti.jpg?w=330 330w, http://i2.wp.com/caleighm.com/wp-content/uploads/2016/02/330px-Offiziolo_-_Leterno_e_gli_eremiti.jpg?resize=206%2C300 206w" sizes="(max-width: 330px) 100vw, 330px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Hours of Gian Galeazzo Visconti</figcaption></figure>
+<figure>
+<img src="{{ site.baseurl }}/public/posts/bookofhours.jpg" alt="Hours of Gian Galeazzo Visconti"  sizes="(max-width: 330px) 100vw, 330px" data-recalc-dims="1" /><figcaption>Hours of Gian Galeazzo Visconti</figcaption></figure>

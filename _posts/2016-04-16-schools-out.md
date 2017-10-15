@@ -4,7 +4,6 @@ title: 'School&#8217;s out! What I learned about learning this term'
 date: 2016-04-16T10:01:45+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=183
 permalink: /2016/04/16/schools-out/
 categories:
   - Learning strategies
@@ -14,7 +13,7 @@ tags:
   - textbook
   - weekly review
 ---
-<figure id="attachment_184" style="width: 400px" class="wp-caption alignleft"><img class="wp-image-184" src="http://i1.wp.com/caleighm.com/wp-content/uploads/2016/04/12983808_10101391370988991_3282687763203424453_o.jpg?resize=400%2C300" alt="Millie snoozing on my sunny coffee table while I finish up a CISC 124 assignment." srcset="http://i1.wp.com/caleighm.com/wp-content/uploads/2016/04/12983808_10101391370988991_3282687763203424453_o.jpg?resize=300%2C225 300w, http://i1.wp.com/caleighm.com/wp-content/uploads/2016/04/12983808_10101391370988991_3282687763203424453_o.jpg?resize=768%2C576 768w, http://i1.wp.com/caleighm.com/wp-content/uploads/2016/04/12983808_10101391370988991_3282687763203424453_o.jpg?w=1024 1024w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Millie snoozing on my sunny coffee table while I finish up a CISC 124 assignment.</figcaption></figure> 
+<figure><img src="{{ site.baseurl }}/public/posts/snoozing.jpg" alt="Millie snoozing on my sunny coffee table while I finish up a CISC 124 assignment." sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption>Millie snoozing on my sunny coffee table while I finish up a CISC 124 assignment.</figcaption></figure> 
 
 Sorry for my absence these past couple weeks! One of my original goals was to post weekly, but &#8230; oh, well. Another promise I made to myself was &#8220;feel no guilt&#8221;!
 

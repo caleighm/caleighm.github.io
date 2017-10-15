@@ -24,9 +24,7 @@ I wrote my last exam yesterday (April 25) and fully intended to write a new blog
 
 Tomorrow I&#8217;ll write about my experiences at nwHacks, preparing for co-op applications, and a term 2 review of the BCS program. Hope you find this helpful, future BCSers!
 
-* * *<figure id="attachment_240" style="width: 485px" class="wp-caption alignleft">
-
-<img class="wp-image-240" src="http://i1.wp.com/caleighm.com/wp-content/uploads/2017/04/SquirrelAdventure.jpg?resize=485%2C260" alt="Squirrel Adventure screenshot" srcset="http://i1.wp.com/caleighm.com/wp-content/uploads/2017/04/SquirrelAdventure.jpg?resize=300%2C161 300w, http://i1.wp.com/caleighm.com/wp-content/uploads/2017/04/SquirrelAdventure.jpg?resize=768%2C411 768w, http://i1.wp.com/caleighm.com/wp-content/uploads/2017/04/SquirrelAdventure.jpg?w=859 859w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Our plucky protagonist perches on a platform, pondering what to plunder next. (It accidentally became alliterative and then I just went for it.)</figcaption></figure> 
+<figure id="attachment_35"><img src="{{ site.baseurl }}/public/posts/squirreladv.jpg" alt="A screenshot of our Squirrel Adventure game." sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1" /><figcaption>Our plucky protagonist perches on a platform, pondering what to plunder next. (It accidentally became alliterative and then I just went for it.)</figcaption></figure> 
 
 I&#8217;ve officially completed my second hackathon! The [Global Game Jam](http://globalgamejam.org/) &#8212; I was at the one in Vancouver &#8212; is an amazing, 48-hour game dev bonanza in which artists, devs, designers, you-name-it all come together for a glorious weekend of coffee, coding, and calamity. (Calamity, like when my team and I realized that our game&#8217;s baddies defied the laws of physics and started flying uncontrollably around the screen when we accidentally adjusted the gravity settings.)
 

@@ -4,7 +4,6 @@ title: 'BCS term 1 review: CPSC 121, STAT 200, MATH 200, and COGS 200'
 date: 2016-12-18T14:03:52+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=229
 permalink: /2016/12/18/bcs-term-1-review-cpsc-121-stat-200-math-200-and-cogs-200/
 categories:
   - School
@@ -27,7 +26,7 @@ So, if you&#8217;re currently in the BCS program and feeling like garbage, let m
 
 If you&#8217;re curious about what exactly I took this term, here we go:
 
-## CPSC 121: Formal Models of Computation
+# CPSC 121: Formal Models of Computation
 
 This turned out to be my favourite course this term! We did a pretty fun variety of things in this class: playing with circuit boards in the lab, discrete math, easy proofs, propositional logic, weak and strong induction, the very, very basics of a working computer &#8230; I found the learning curve tough at the beginning. We had clicker questions in lecture, and I often felt like I was the only person out of everyone I sat with who struggled to get the right answer. Labs also occasionally drove me nuts; our labs always came together by the end of the session, but sometimes it was a struggle to figure out the wiring on our circuit board.
 
@@ -35,13 +34,13 @@ However, by the end of the course, I really started enjoying it. Proofs are grea
 
 The workload felt high at the beginning while I was still getting my bearings, but by the end of the course, it felt manageable. There&#8217;s a weekly lab, a weekly online quiz, 5 assignments (each one took me between 4-8 hours to do), two midterms, and a final exam.
 
-## STAT 200 &#8211; Elementary Statistics for Applications
+# STAT 200 &#8211; Elementary Statistics for Applications
 
 I found STAT 200 very sneaky. For the first 6 weeks, it felt like my bird course: different types of experiments, parameters versus statistics, the very basics of probability, normal and uniform distributions. So far, so good. Things quickly escalated after the halfway point. I couldn&#8217;t even tell you exactly what was hard about it &#8212; the math was easy &#8212; but I found it tricky to apply the correct formula to a complex word problem. I wish I spent much more time on this class; the early weeks lulled me into a false sense of security. In hindsight, I wish I attended the professor&#8217;s office hours to clarify the concepts early on.
 
 STAT 200 has a reputation for being an easy course, and I don&#8217;t know if I agree yet or not. It felt easy at the beginning, but we&#8217;ll see how the final went. (To be fair, I also had the stomach flu that day.) We had 2 assignments, weekly labs, a couple webwork questions per week, a midterm, and a final.
 
-## MATH 200 &#8211; Multivariable Calculus (Calculus III)
+# MATH 200 &#8211; Multivariable Calculus (Calculus III)
 
 This course was a roller coaster of emotions. I spent almost every day doing practice problems, studying for the quizzes, or trying to get through the webwork each week. I got 3/9 on the first quiz (and contemplated dropping out of UBC and moving back home). Then I did much better on the next 5 quizzes. I also did very well on the midterm (especially considering our section&#8217;s average was 47% before scaling).
 
@@ -51,7 +50,7 @@ Unless visualizing three-dimensional shapes comes easily to you (and it certain
 
 In this course, we had weekly web work, six quizzes, one midterm, and one final.
 
-## COGS 200 &#8211; Introduction to Cognitive Systems
+# COGS 200 &#8211; Introduction to Cognitive Systems
 
 Finally, COGS 200. I don&#8217;t even really know where to begin with this one. This course was all about the theory and design of cognitive systems, or artificial intellingence, and what that might tell us about our own consciousness, to.
 

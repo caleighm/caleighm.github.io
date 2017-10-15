@@ -4,7 +4,6 @@ title: '&#8220;This would probably be easier for you to learn if you were younge
 date: 2016-04-23T12:08:28+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=189
 permalink: /2016/04/23/this-would-probably-be-easier-for-you-to-learn-if-you-were-younger/
 categories:
   - Coder community
@@ -14,7 +13,7 @@ tags:
   - cognitive decline
   - pep talk
 ---
-<figure id="attachment_190" style="width: 400px" class="wp-caption alignleft"><img class="wp-image-190" src="http://i2.wp.com/caleighm.com/wp-content/uploads/2016/04/620402_10100301240574081_1545410999_o.jpg?resize=400%2C268" alt="My preschool teacher and I. It's all been downhill from there." srcset="http://i2.wp.com/caleighm.com/wp-content/uploads/2016/04/620402_10100301240574081_1545410999_o.jpg?resize=300%2C201 300w, http://i2.wp.com/caleighm.com/wp-content/uploads/2016/04/620402_10100301240574081_1545410999_o.jpg?resize=768%2C514 768w, http://i2.wp.com/caleighm.com/wp-content/uploads/2016/04/620402_10100301240574081_1545410999_o.jpg?resize=1024%2C685 1024w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption class="wp-caption-text">My preschool teacher and I. It&#8217;s all been downhill from here.</figcaption></figure> 
+<figure><img src="{{ site.baseurl }}/public/posts/preschool.jpg" alt="My preschool teacher and I. It's all been downhill from there." sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /><figcaption class="wp-caption-text">My preschool teacher and I. It&#8217;s all been downhill from here.</figcaption></figure> 
 
 The original plan was to blog about my goals for the summer, but I bring to you an important message on ageism instead!
 

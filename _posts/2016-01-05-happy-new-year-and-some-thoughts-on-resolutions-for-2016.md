@@ -9,7 +9,7 @@ permalink: /2016/01/05/happy-new-year-and-some-thoughts-on-resolutions-for-2016/
 categories:
   - Life choices
 ---
-<figure id="attachment_81"><img class="size-full" src="{{ site.baseurl }}/public/tarot.jpg" alt="Strength Major Arcana Tarot: woman gently taming a lion" sizes="(max-width: 211px) 100vw, 211px" data-recalc-dims="1" /><figcaption>&#8220;Strength.&#8221; This is an original card from the tarot deck of Jean Dodal. The deck dates from 1701-1715. From Wikipedia Media Commons.</figcaption></figure> 
+<figure><img src="{{ site.baseurl }}/public/posts/tarot.jpg" alt="Strength Major Arcana Tarot: woman gently taming a lion" sizes="(max-width: 211px) 100vw, 211px" data-recalc-dims="1" /><figcaption>&#8220;Strength.&#8221; This is an original card from the tarot deck of Jean Dodal. The deck dates from 1701-1715. From Wikipedia Media Commons.</figcaption></figure> 
 
 Ordinarily I&#8217;m pretty contrarian when it comes to making resolutions. &#8220;Well,&#8221; I grumble, &#8220;I don&#8217;t really believe in making new year resolutions. Did you know [only 8% of people even achieve their resolutions](http://www.statisticbrain.com/new-years-resolution-statistics/) in a given year?!&#8221; (I am not especially fun at NYE parties. This year my friends had to wake me up ten minutes before midnight so I wouldn&#8217;t miss the countdown.)
 

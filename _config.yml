@@ -30,7 +30,7 @@ twitter:             cjminsh
 github:              caleighm
 linkedin:            https://linkedin.com/in/caleigh-minshall-00a46522/
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
   - jekyll-gist

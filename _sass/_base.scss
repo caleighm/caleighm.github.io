@@ -66,9 +66,9 @@ img {
 }
 
 figure {
-  display: inline-block;
+  display: block;
   text-align: center;
-  margin: 10px; /* adjust as needed */
+  margin: 30px; /* adjust as needed */
 }
 figure img {
   vertical-align: top;
@@ -79,8 +79,10 @@ figure img {
 }
 figure figcaption {
   text-align: center;
+  color: $gray-5;
   margin-top: 0.5rem;
   font-size: 13pt;
+  line-height: 1.25;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
@@ -108,10 +110,21 @@ tbody tr:nth-child(odd) th {
 }
 
 ul {
-  margin-left: 0;
+  font-size: 14pt;
+  color: $gray-1;
   li {
-    list-style: none;
+    list-style: circle;
     text-align: left;
+    margin-bottom: 20px;
+  }
+}
+
+ol {
+  font-size: 14pt;
+  color: $gray-1;
+  li {
+    list-style-type: decimal;
+    margin-bottom: 20px;
   }
 }
 
@@ -130,4 +143,9 @@ ul {
 
 .content-section p {
   line-height: 2;
+}
+
+hr {
+  background-color: $gray-5;
+  border: none;
 }

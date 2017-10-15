@@ -9,7 +9,7 @@ permalink: /2016/02/20/common-ground-between-english-literature-and-computing/
 categories:
   - Computer science
 ---
-<figure id="attachment_152" style="width: 303px" class="wp-caption alignleft"><img class="size-full wp-image-152" src="http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/brautigantypewriter.jpg?fit=303%2C450" alt="Richard Brautigan with a typewriter" srcset="http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/brautigantypewriter.jpg?w=303 303w, http://i1.wp.com/caleighm.com/wp-content/uploads/2016/02/brautigantypewriter.jpg?resize=202%2C300 202w" sizes="(max-width: 303px) 100vw, 303px" data-recalc-dims="1" /><figcaption class="wp-caption-text">Richard Brautigan. Read on for a treat.</figcaption></figure> 
+<figure><img src="{{ site.baseurl }}/public/posts/brautigan.jpg" alt="Richard Brautigan with a typewriter" sizes="(max-width: 303px) 100vw, 303px" data-recalc-dims="1" /><figcaption>Richard Brautigan. Read on for a treat.</figcaption></figure> 
 
 While I&#8217;m a computer science student these days, that doesn&#8217;t mean I&#8217;m any less of a bookworm. After finishing _[Here&#8217;s Looking at Euclid](http://www.amazon.ca/Heres-Looking-Euclid-Counting-Awe-Inspiring/dp/1416588280)_ (2011 and the [best math book ever](http://caleighm.com/2016/02/06/heres-looking-at-euclid-or-how-i-learned-to-stop-worrying-and-love-math/)), I picked up John Markoff&#8217;s _[Machines of Loving Grace: The Quest for Common Ground between Humans and Robots](http://www.amazon.ca/Machines-Loving-Grace-Common-Between/dp/0062266683) _(2015).
 
@@ -21,7 +21,7 @@ Instead, I was recently struck by a passage I encountered in a chapter called &#
 
 Markoff&#8217;s description of SHRDLU sounded eerily familiar to me:
 
-> [SHRDLU] was an early effort at disambiguation, a thorny problem for natural language processing even today. For example, in the sentence &#8220;he put the glass on the table and it broke,&#8221; does &#8220;it&#8221; refer to the glass or the table? Without more context, neither a human nor an AI program could decide. <cite>&#8211;Markoff, p. 176</cite>
+> [SHRDLU] was an early effort at disambiguation, a thorny problem for natural language processing even today. For example, in the sentence &#8220;he put the glass on the table and it broke,&#8221; does &#8220;it&#8221; refer to the glass or the table? Without more context, neither a human nor an AI program could decide. <cite>Markoff, p. 176</cite>
 
 After a minute or two of thinking, I realized why this sounded so familiar &#8212; I&#8217;ve taught pronoun disambiguation before! Occasionally the Writing Centre needs my help in delivering writing workshops, and last term I taught 5 or 6 workshops to English 100 students at Queen&#8217;s on how to write effective papers. Pronoun disambiguation was a major topic, and effective writers avoid it like the plague (much like they are supposed to avoid cliches).
 
@@ -29,7 +29,7 @@ I&#8217;ve long wondered if somehow my background in English literature is dire
 
 Weirdly, this is the second time in two days that I&#8217;ve encountered this idea. A friend of mine in the computer science program recently directed me to [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/). Check out this bit from the preface:
 
-> &#8230; [P]rogram design teaches the same analytical reading and writing skills as English. Even the smallest design tasks are formulated as word problems. Without critical reading skills, you cannot design programs that solve the problem and match its specifications. Conversely, program design methods force you to articulate their thoughts in proper and precise English. Indeed, **our observations suggests that if you truly absorb the design recipe, you will develop your articulation skills more than anything else**. <cite>&#8212;<a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/part_preface.html">&#8220;Preface&#8221;</a> from <a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/">How to Design Programs</a></cite>
+> &#8230; [P]rogram design teaches the same analytical reading and writing skills as English. Even the smallest design tasks are formulated as word problems. Without critical reading skills, you cannot design programs that solve the problem and match its specifications. Conversely, program design methods force you to articulate their thoughts in proper and precise English. Indeed, **our observations suggests that if you truly absorb the design recipe, you will develop your articulation skills more than anything else**. <cite><a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/part_preface.html">&#8220;Preface&#8221;</a> from <a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/">How to Design Programs</a></cite>
 
 I completely agree, and this echoes my rambling conversations that I&#8217;ve had with other writing consultants at my work and some of the STEM educators I met at the [Canadian Celebration of Women in Computing conference](http://caleighm.com/2016/01/24/thoughts-on-my-first-canadian-celebration-of-women-in-computing-2016/) this past January. While STEM educators worry about teaching STEM, and writing and rhetoric educators worry about teaching writing and rhetoric, I am looking incredulously at each side and wondering &#8220;Why the heck aren&#8217;t these instructors talking to each other more?&#8221;
 

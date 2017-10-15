@@ -4,12 +4,11 @@ title: My experiences in the admissions process for Fullstack Academy
 date: 2016-01-30T13:12:04+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=120
 permalink: /2016/01/30/my-experiences-in-the-admissions-process-for-fullstack-academy/
 categories:
   - Life choices
 ---
-<figure id="attachment_121" style="width: 325px" class="wp-caption alignleft"><img class="wp-image-121" src="http://i2.wp.com/caleighm.com/wp-content/uploads/2016/01/11728972_10101198802522741_5121824722424178269_o.jpg?resize=325%2C433" alt="Millie ate my math notebooks." srcset="http://i2.wp.com/caleighm.com/wp-content/uploads/2016/01/11728972_10101198802522741_5121824722424178269_o.jpg?resize=225%2C300 225w, http://i2.wp.com/caleighm.com/wp-content/uploads/2016/01/11728972_10101198802522741_5121824722424178269_o.jpg?resize=768%2C1024 768w, http://i2.wp.com/caleighm.com/wp-content/uploads/2016/01/11728972_10101198802522741_5121824722424178269_o.jpg?w=1536 1536w" sizes="(max-width: 325px) 100vw, 325px" data-recalc-dims="1" /><figcaption class="wp-caption-text">This is not related to Fullstack Academy, but it is one of many reasons why Millie would stay with my parents while I attend Fullstack if that&#8217;s where I end up.</figcaption></figure> 
+<figure><img src="{{ site.baseurl }}/public/posts/chewed1.jpg" alt="Millie ate my math notebooks." sizes="(max-width: 325px) 100vw, 325px" data-recalc-dims="1" /><figcaption>This is not related to Fullstack Academy, but it is one of many reasons why Millie would stay with my parents while I attend Fullstack if that&#8217;s where I end up.</figcaption></figure> 
 
 One question that keeps me up at night is where to pursue my computer science education next year. Stay at [Queen&#8217;s](http://www.cs.queensu.ca/), where I&#8217;m comfortable and happy but a little bored and the degree takes three years? Sell everything I own and move across the country (with a dog!) to the University of British Columbia&#8217;s two-year [Integrated Computer Science program](https://www.cs.ubc.ca/students/undergrad/programs/second-degree)? Or maybe sacrifice the amazingness of downtown Vancouver for the less expensive option of [Simon Fraser University](https://www.sfu.ca/computing.html) in Burnaby?
 

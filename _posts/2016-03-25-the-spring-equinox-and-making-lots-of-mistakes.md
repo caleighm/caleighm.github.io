@@ -4,7 +4,6 @@ title: The Spring Equinox and making (lots of) mistakes
 date: 2016-03-25T10:42:14+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=179
 permalink: /2016/03/25/the-spring-equinox-and-making-lots-of-mistakes/
 categories:
   - Learning strategies
