@@ -4,6 +4,7 @@ title: Thoughts on my first Canadian Celebration of Women in Computing 2016
 date: 2016-01-24T15:38:45+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2016/01/24/thoughts-on-my-first-canadian-celebration-of-women-in-computing-2016/
 categories:
   - Coder community

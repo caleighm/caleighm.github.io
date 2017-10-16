@@ -4,7 +4,7 @@ title: nwHacks and the little Android app that could
 date: 2017-05-03T13:56:12+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=247
+comments: true
 permalink: /2017/05/03/nwhacks-or-the-little-android-app-that-could/
 categories:
   - Computer science

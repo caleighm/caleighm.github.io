@@ -4,6 +4,7 @@ title: 'BCS term 1 review: CPSC 121, STAT 200, MATH 200, and COGS 200'
 date: 2016-12-18T14:03:52+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2016/12/18/bcs-term-1-review-cpsc-121-stat-200-math-200-and-cogs-200/
 categories:
   - School

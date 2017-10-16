@@ -4,7 +4,7 @@ title: Jamming with squirrels at the Global Game Jam 2017
 date: 2017-01-25T14:47:12+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=237
+comments: true
 permalink: /2017/01/25/jamming-with-squirrels-at-the-global-game-jam-2017/
 categories:
   - Coder community

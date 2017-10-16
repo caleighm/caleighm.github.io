@@ -4,7 +4,7 @@ title: Common ground between English literature and computing
 date: 2016-02-20T11:24:14+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=150
+comments: true
 permalink: /2016/02/20/common-ground-between-english-literature-and-computing/
 categories:
   - Computer science

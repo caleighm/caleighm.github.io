@@ -4,6 +4,7 @@ title: How I like to take notes in lecture
 date: 2016-01-15T11:57:17+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2016/01/15/how-i-like-to-take-notes-in-lecture/
 categories:
   - Learning strategies

@@ -4,7 +4,7 @@ title: How I solve small assignments in my computer science class
 date: 2016-03-13T14:22:49+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=169
+comments: true
 permalink: /2016/03/13/how-i-solve-small-assignments-in-my-computer-science-class/
 categories:
   - Learning strategies

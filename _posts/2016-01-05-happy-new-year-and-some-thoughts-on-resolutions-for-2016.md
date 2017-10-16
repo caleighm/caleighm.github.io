@@ -4,6 +4,7 @@ title: Happy New Year! And five reluctant resolutions for 2016
 date: 2016-01-05T18:51:55+00:00
 author: Caleigh
 layout: post
+comments: true
 guid: http://caleighm.com/?p=80
 permalink: /2016/01/05/happy-new-year-and-some-thoughts-on-resolutions-for-2016/
 categories:

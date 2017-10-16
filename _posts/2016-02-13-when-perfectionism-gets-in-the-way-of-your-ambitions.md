@@ -4,7 +4,7 @@ title: When perfectionism gets in the way of your ambitions
 date: 2016-02-13T17:38:22+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=67
+comments: true
 permalink: /2016/02/13/when-perfectionism-gets-in-the-way-of-your-ambitions/
 categories:
   - Programming how-to

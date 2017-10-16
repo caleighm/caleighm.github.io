@@ -4,7 +4,7 @@ title: 'BCS Term 2 review: CPSC 213, CPSC 221, ETEC 510, and MATH 221'
 date: 2017-05-05T20:32:54+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=254
+comments: true
 permalink: /2017/05/05/bcs-term-2-review-cpsc-213-cpsc-221-etec-510-and-math-221/
 categories:
   - Learning strategies

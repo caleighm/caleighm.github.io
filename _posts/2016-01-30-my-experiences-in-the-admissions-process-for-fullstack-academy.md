@@ -4,6 +4,7 @@ title: My experiences in the admissions process for Fullstack Academy
 date: 2016-01-30T13:12:04+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2016/01/30/my-experiences-in-the-admissions-process-for-fullstack-academy/
 categories:
   - Life choices

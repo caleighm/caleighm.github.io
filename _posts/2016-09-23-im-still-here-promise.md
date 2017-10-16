@@ -4,11 +4,9 @@ title: 'I&#8217;m still here, promise!'
 date: 2016-09-23T23:42:53+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=222
+comments: true
 permalink: /2016/09/23/im-still-here-promise/
-categories:
-  - Miscellaneous
-  - School
+categories: Miscellaneous
 ---
 <figure><img src="{{ site.baseurl }}/public/posts/uneasy.jpg" alt="Millie sits unhappily in her crate." sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" /><figcaption>Millie has made an uneasy peace with her airline kennel after a traumatic 5-hour flight.</figcaption></figure> 
 

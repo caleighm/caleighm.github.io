@@ -4,7 +4,7 @@ title: 'Making my own &#8220;net for catching days&#8221;'
 date: 2016-02-28T21:29:05+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=162
+comments: true
 permalink: /2016/02/28/making-my-own-net-for-catching-days/
 categories:
   - Learning strategies

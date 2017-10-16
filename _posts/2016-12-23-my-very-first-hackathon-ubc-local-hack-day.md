@@ -4,7 +4,7 @@ title: 'My very first hackathon: UBC Local Hack Day'
 date: 2016-12-23T16:44:08+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=233
+comments: true
 permalink: /2016/12/23/my-very-first-hackathon-ubc-local-hack-day/
 categories:
   - Coder community

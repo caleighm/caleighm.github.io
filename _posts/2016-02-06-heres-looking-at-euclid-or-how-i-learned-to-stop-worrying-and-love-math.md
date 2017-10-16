@@ -4,6 +4,7 @@ title: 'Here&#8217;s Looking at Euclid &#8212; or how I learned to stop worrying
 date: 2016-02-06T13:06:53+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2016/02/06/heres-looking-at-euclid-or-how-i-learned-to-stop-worrying-and-love-math/
 categories:
   - Computer science

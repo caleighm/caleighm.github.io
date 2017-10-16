@@ -4,6 +4,7 @@ title: '&#8220;This would probably be easier for you to learn if you were younge
 date: 2016-04-23T12:08:28+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2016/04/23/this-would-probably-be-easier-for-you-to-learn-if-you-were-younger/
 categories:
   - Coder community

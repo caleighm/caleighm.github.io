@@ -4,7 +4,7 @@ title: Bound for University of British Columbia!
 date: 2016-05-15T14:17:11+00:00
 author: Caleigh
 layout: post
-guid: http://caleighm.com/?p=197
+comments: true
 permalink: /2016/05/15/bound-for-university-of-british-columbia/
 categories:
   - Life choices

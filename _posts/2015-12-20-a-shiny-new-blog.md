@@ -4,6 +4,7 @@ title: A shiny new blog, just in time for the holidays!
 date: 2015-12-20T19:59:13+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2015/12/20/a-shiny-new-blog/
 categories:
   - Miscellaneous

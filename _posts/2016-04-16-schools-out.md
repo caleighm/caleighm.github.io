@@ -4,6 +4,7 @@ title: 'School&#8217;s out! What I learned about learning this term'
 date: 2016-04-16T10:01:45+00:00
 author: Caleigh
 layout: post
+comments: true
 permalink: /2016/04/16/schools-out/
 categories:
   - Learning strategies
