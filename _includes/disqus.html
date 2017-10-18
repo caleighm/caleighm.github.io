@@ -2,7 +2,7 @@
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = "{{ page.url }}"; // <--- use canonical URL
+this.page.url = "{{ site.baseurl }}{{ page.permalink }}"; // <--- use canonical URL
 this.page.identifier = "{{ page.permalink }}";
 };
 (function() { // DON'T EDIT BELOW THIS LINE
@@ -15,4 +15,5 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{{ site.baseurl }}{{ page.permalink }}
 {% endif %}
