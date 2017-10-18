@@ -2,8 +2,8 @@ This will eventually become my full-time home on the web! Hooray for no longer p
 
 # Todo:
 * Use modal windows to display larger versions of the photos on Projects page
-* Restore WP comments
-* Restore categories and tags
+* Restore tags
+* Improve look of categories
 * Create search function?
 * ... Blog more, obviously
 
