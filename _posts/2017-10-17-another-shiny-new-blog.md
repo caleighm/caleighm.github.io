@@ -1,5 +1,5 @@
 ---
-title: Another shiny new blog -- this time on GitHub!
+title: Another shiny new blog - this time on GitHub!
 date: 2017-10-17
 author: Caleigh
 layout: post
