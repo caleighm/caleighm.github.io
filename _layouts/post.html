@@ -9,7 +9,7 @@ comments: true
           <h1 class="post-title">{{ page.title }}</h1>
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
-            {% if page.comments %} • <a href="{{ site.url }}{{ page.permalink }}#disqus_thread"></a>{% endif %}
+            {% if page.comments %} • <a href="{{ site.url }}{{ page.permalink }}#disqus_thread">0 Comments</a>{% endif %}
           </div>
           
           {{ content }}
