@@ -9,7 +9,7 @@ comments: true
           <h1 class="post-title">{{ page.title }}</h1>
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
-            {% if page.comments %} • <a href="{{ site.url }}{{ page.permalink }}#disqus_thread">0 Comments</a>{% endif %}
+            {% if page.comments %} • <a href="{{ site.url }}{{ page.permalink }}#disqus_thread"></a>{% endif %}
           </div>
           
           {{ content }}
@@ -29,4 +29,13 @@ comments: true
         </main>
   </article>
 </body>
+<script type="text/javascript">
+  var disqus_shortname = 'http-caleighm-com';
+  (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script>
 </html>
