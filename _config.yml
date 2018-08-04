@@ -7,7 +7,7 @@ tagline:             Computer Science student at the University of British Colum
 url:                 https://caleighm.github.io
 permalink:           /:year/:month/:day/:title
 paginate:            5
-paginate_path:      "/blog/page:num/"
+paginate_path:       "/blog/page:num/"
 baseurl:             ""
 
 # Assets
