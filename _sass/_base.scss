@@ -132,47 +132,6 @@ ol {
   margin-bottom: 4em;
 }
 
-.project-post {
-  h3, p {
-    font-size: 18px;
-  }
-  p {
-    color: #8e8e8e;
-  }
-}
-
-.post-categories {
-  color: $gray-4;
-  font-family: $navbar-font-family;
-  font-size: 0.7rem;
-  text-decoration: none;
-  text-transform: uppercase;
-  letter-spacing: 0.25em;
-  line-height: 1;
-  letter-spacing: 0.25em;
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-// No `:visited` state is required by default (browsers will use `a`)
-.post-categories a {
-  color: $gray-4;
-  text-decoration: none;
-  font-weight: lighter;
-  @include transition(color .2s ease-in-out);
-
-  // `:focus` is linked to `:hover` for basic accessibility
-  &:hover,
-  &:focus {
-    color: $link-color;
-    text-decoration: none;
-  }
-
-  strong {
-    color: inherit;
-  }
-}
-
 .content-section p {
   line-height: 2;
 }
